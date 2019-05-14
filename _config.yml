@@ -10,11 +10,11 @@ email: yinuoyumi@163.com
 description: 
 
 # Sidebar settings
-sidebar: true # 是否开启侧边栏.
+#sidebar: true # 是否开启侧边栏.
 
 # SNS settings 展示你的其他社交平台
-RSS: false
-github_username:    stamax360
+#RSS: false
+#github_username:    stamax360
 
 #baseurl: ""
 #url: "https://stamax360.github.io"

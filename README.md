@@ -14,8 +14,8 @@
 
 ## 页面
 * index.html 修改主页
-* aboutme.thml 修改简历
-* research.thml 修改科研等
+* aboutme.html 修改简历
+* research.html 修改科研等
 
 
 

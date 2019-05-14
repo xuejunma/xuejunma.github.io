@@ -1,16 +1,16 @@
 
 # Site settings
-title: Paul E. Soto
-name: Paul E. Soto
-subtitle: Financial Economist
-email: paul.soto@upf.edu
+title: 马学俊
+name: 马学俊
+subtitle: 博后
+email: yinuoyumi@163.com
 description: >
-  Financial Economist
+  博后
 baseurl: ""
-url: "https://pesoto.github.io/"
-github_username:  pesoto
-disqus_baseurl: "https://pesoto.github.io/"
-disqus_shortname: https-pesoto-github-io
+url: "https://stamax360.github.io"
+github_username:  stamax360
+disqus_baseurl: "https://stamax360.github.io/"
+disqus_shortname: https://stamax360.github.io
 permalink: :title
 
 # Build settings
@@ -24,7 +24,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Paul E. Soto"
+      author: "马学俊"
 
 
 
@@ -40,13 +40,13 @@ social:
   - name: GitHub
     icon: github
     username: pesoto
-    url: https://github.com/pesoto
+    url: https://stamax360.github.io
     desc: Fork me on GitHub
     share: false
 
-  - name: LinkedIn
-    icon: linkedin
-    username: Paul E. Soto
-    url: https://linkedin.com/pesoto
+  - name: NUS
+    icon: NUS
+    username: NUS
+    url: http://www.nus.edu.sg/
     desc: Connect with me on LinkedIn
     share: true

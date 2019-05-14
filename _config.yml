@@ -27,12 +27,11 @@ paginate: 5
 paginate_path: "/page:num/"
 inter_post_navigation: true
 
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      author: "马学俊"
+
+# SNS settings 展示你的其他社交平台
+RSS: false
+github_username:    stamax360
+
 
 
 
@@ -44,11 +43,4 @@ gems:
 
 
 
-social:
-  - name: GitHub
-    icon: github
-    username: stamax360
-    url:https://github.com/stamax360/stamax360.github.io/
-    desc: Fork me on GitHub
-    share: false
 

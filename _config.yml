@@ -42,7 +42,7 @@ gems:
 social:
   - name: GitHub
     icon: github
-    username: pesoto
+    username: stamax360
     url:https://github.com/stamax360/stamax360.github.io/
     desc: Fork me on GitHub
     share: false
@@ -52,4 +52,4 @@ social:
     username: NUS
     url: http://www.nus.edu.sg/
     desc: Connect with me on LinkedIn
-    share: true
+    share: false

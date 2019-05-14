@@ -12,14 +12,16 @@ description:
 # Sidebar settings
 sidebar: true # 是否开启侧边栏.
 
+# SNS settings 展示你的其他社交平台
+RSS: false
+github_username:    stamax360
 
-
-baseurl: ""
-url: "https://stamax360.github.io"
-github_username:  stamax360
-disqus_baseurl: "https://stamax360.github.io/"
-disqus_shortname: https://stamax360.github.io
-permalink: :title
+#baseurl: ""
+#url: "https://stamax360.github.io"
+#github_username:  stamax360
+#disqus_baseurl: "https://stamax360.github.io/"
+#disqus_shortname: https://stamax360.github.io
+#permalink: :title
 
 # Build settings
 markdown: kramdown
@@ -28,9 +30,7 @@ paginate_path: "/page:num/"
 inter_post_navigation: true
 
 
-# SNS settings 展示你的其他社交平台
-RSS: false
-github_username:    stamax360
+
 
 
 

@@ -1,11 +1,14 @@
 
 # Site settings
+# 站点名字，也就是html的title 会显示在浏览器标签上。
 title: 马学俊
-name: 马学俊
+#name: 马学俊
+# 站点副标题，会显示在首页上，可以不填。
 subtitle: 博后
 email: yinuoyumi@163.com
-description: >
-  博后
+# 站点描述，可以不填
+description: 
+
 baseurl: ""
 url: "https://stamax360.github.io"
 github_username:  stamax360

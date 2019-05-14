@@ -12,4 +12,10 @@
 ## 全局配置
 可以在config.yml设置标题等。
 
+## 页面
+* index.html 修改主页
+* aboutme.thml 修改简历
+* research.thml 修改科研等
+
+
 

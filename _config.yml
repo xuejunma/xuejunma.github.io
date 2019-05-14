@@ -9,6 +9,11 @@ email: yinuoyumi@163.com
 # 站点描述，可以不填
 description: 
 
+# Sidebar settings
+sidebar: true # 是否开启侧边栏.
+
+
+
 baseurl: ""
 url: "https://stamax360.github.io"
 github_username:  stamax360

@@ -1,11 +1,11 @@
 
 # Site settings
 # 站点名字，也就是html的title 会显示在浏览器标签上。
-title: 马学俊
-#name: 马学俊
+title: 许晓菲
+#name: 许晓菲
 # 站点副标题，会显示在首页上，可以不填。
-subtitle: 博后
-email: yinuoyumi@163.com
+subtitle: 博士
+email: xiaofeix01@gmail.com
 # 站点描述，可以不填
 description: 
 
@@ -14,13 +14,13 @@ description:
 
 # SNS settings 展示你的其他社交平台
 #RSS: false
-#github_username:    stamax360
+#github_username:    Xiaofei-Xu
 
 #baseurl: ""
 #url: "https://stamax360.github.io"
 #github_username:  stamax360
-#disqus_baseurl: "https://stamax360.github.io/"
-#disqus_shortname: https://stamax360.github.io
+#disqus_baseurl: "https://github.com/Xiaofei-Xu/"
+#disqus_shortname: https://github.com/Xiaofei-Xu/Xiaofei-Xu.github.io
 #permalink: :title
 
 # Build settings

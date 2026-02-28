@@ -1,11 +1,11 @@
 
 # Site settings
 # 站点名字，也就是html的title 会显示在浏览器标签上。
-title: 许晓菲
-#name: 许晓菲
+title: 马学俊
+#name: 
 # 站点副标题，会显示在首页上，可以不填。
-subtitle: 博士
-email: xiaofeix01@gmail.com
+subtitle: 
+email: 
 # 站点描述，可以不填
 description: 
 
@@ -14,14 +14,9 @@ description:
 
 # SNS settings 展示你的其他社交平台
 #RSS: false
-#github_username:    Xiaofei-Xu
+#github_username:    
 
-#baseurl: ""
-#url: "https://Xiaofei-Xu.github.io"
-#github_username:  Xiaofei-Xu
-#disqus_baseurl: "https://Xiaofei-Xu.github.io"
-#disqus_shortname: https://Xiaofei-Xu.github.io
-#permalink: :title
+
 
 # Build settings
 markdown: kramdown
